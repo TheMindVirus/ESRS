@@ -27,3 +27,5 @@ A step further would involve the integration of a "Request" button on e-commerce
 with the locally deployed edge server's .csv file in memory, with the required authentication and attestation principles implemented. \
 This should in theory make it simpler for people who don't want to manually edit a .csv file to receive the assistance they need. \
 In some form it is already integrated as a Wish-List, Browser Cookies and Laptops but yet the distribution still skews towards scalpers.
+
+![AirBag](/AirBag.png)
